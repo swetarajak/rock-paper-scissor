@@ -3,7 +3,7 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
 <br>
 <hr>
 <br>
-## Features
+## Features <br>
 - Allows two players to play against each other. <br>
 - Randomized arrangement of the choices (Rock, Paper, Scissors). <br>
 - Tracks the scores for each player over multiple rounds. <br>
