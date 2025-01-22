@@ -47,10 +47,12 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
 
 ## Example
 <p align="center">
-  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 1" width="300" height="300">
-  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 2" width="300" height="300">
+  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 1" width="400" height="300">
+  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 2" width="400" height="300">
 </p>
-  <img src="Stonepaper/Screenshot 2025-01-22 190032.png" alt="Output Image 3" width="300" height="300">
+<p align="center">
+  <img src="Stonepaper/Screenshot 2025-01-22 190032.png" alt="Output Image 3" width="400" height="400">
+</p>
 
 ## Notes
 - Players must enter numbers between 0 and 2. If an invalid input is provided, the program will prompt them to enter the values carefully. <br>
