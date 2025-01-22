@@ -51,6 +51,7 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
   <img src="Stonepaper/Screenshot%2025-01-22%190017.png" alt="Output Image 2" width="200">
   <img src="Stonepaper/Screenshot%2025-01-22%190032.png" alt="Output Image 3" width="200">
 </p>
+
 ## Notes
 - Players must enter numbers between 0 and 2. If an invalid input is provided, the program will prompt them to enter the values carefully. <br>
 - The program uses randomness to shuffle the choices for each round, ensuring variety.
