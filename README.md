@@ -1,10 +1,15 @@
 # Rock-Paper-Scissors Game
-This project is a console-based implementation of the classic "Rock-Paper-Scissors" game. Players take turns choosing their moves, and the game determines the winner based on the standard rules of Rock-Paper-Scissors.
-<br>
-<hr>
-<br>
-## Features <br>
-- Allows two players to play against each other. <br>
-- Randomized arrangement of the choices (Rock, Paper, Scissors). <br>
-- Tracks the scores for each player over multiple rounds. <br>
-- Declares a winner based on the final scores or announces a tie. <br>
+
+This project is a console-based implementation of the classic "Rock-Paper-Scissors" game. Players take turns choosing their moves, and the game determines the winner based on the standard rules of Rock-Paper Scissors.
+
+## Features
+- Allows two players to play against each other.
+- Randomized arrangement of the choices (Rock, Paper, Scissors).
+- Tracks the scores for each player over multiple rounds.
+- Declares a winner based on the final scores or announces a tie.
+
+## Prerequisites
+1. **Java Development Kit (JDK):**  
+   Ensure you have JDK 8 or higher installed. Verify it using:
+   ```bash
+   java -version
