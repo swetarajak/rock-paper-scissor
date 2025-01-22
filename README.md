@@ -47,9 +47,9 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
 
 ## Example
 <p align="center">
-  <img src="Stonepaper/Screenshot%2025-01-22%185957.png" alt="Output Image 1" width="200">
-  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 2" width="200">
-  <img src="Stonepaper/Screenshot 2025-01-22 190032.png" alt="Output Image 3" width="200">
+  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 1" width="300">
+  <img src="Stonepaper/Screenshot 2025-01-22 190017.png" alt="Output Image 2" width="300">
+  <img src="Stonepaper/Screenshot 2025-01-22 190032.png" alt="Output Image 3" width="300">
 </p>
 
 ## Notes
