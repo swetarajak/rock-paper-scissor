@@ -44,3 +44,12 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
   - Scissors cut paper <br>
 5. The game runs for 10 rounds; scores are displayed after each round. <br>
 6. At the end of 10 rounds, the program announces the winner or a tie. <br>
+
+## Example
+
+## Notes
+- Players must enter numbers between 0 and 2. If an invalid input is provided, the program will prompt them to enter the values carefully. <br>
+- The program uses randomness to shuffle the choices for each round, ensuring variety.
+## Limitations
+- The game does not support more than 10 rounds. <br>
+- Only two players are allowed; no single-player or multiplayer mode.
