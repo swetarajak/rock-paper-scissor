@@ -60,3 +60,7 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
 ## Limitations
 - The game does not support more than 10 rounds. <br>
 - Only two players are allowed; no single-player or multiplayer mode.
+## Future Enhancements
+- Add a single-player mode where the player competes against the computer. <br>
+- Allow users to customize the number of rounds.
+
