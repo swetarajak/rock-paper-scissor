@@ -46,7 +46,7 @@ This project is a console-based implementation of the classic "Rock-Paper-Scisso
 6. At the end of 10 rounds, the program announces the winner or a tie. <br>
 
 ## Example
-![Output Image](Stonepaper/Screenshot%2025-01-22%185957.png), ![](Stonepaper/Screenshot%2025-01-22%190017.png), ![](Stonepaper/Screenshot%2025-01-22%190032.png)
+![Output Image](Stonepaper/Screenshot%2025-01-22%185957.png) ![](Stonepaper/Screenshot%2025-01-22%190017.png) ![](Stonepaper/Screenshot%2025-01-22%190032.png)
 
 ## Notes
 - Players must enter numbers between 0 and 2. If an invalid input is provided, the program will prompt them to enter the values carefully. <br>
